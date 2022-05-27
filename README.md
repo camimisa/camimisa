@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Spring boot**
 
-- 👨‍💻 Mis proyectos estan disponibles en [garcia-misa-camila.netlify.app](garcia-misa-camila.netlify.app)
+- 👨‍💻 Mis proyectos estan disponibles en [garcia-misa-camila.netlify.app](https://garcia-misa-camila.netlify.app/)
 
 - 📫 Contactarme: **garciamisacamila@gmail.com**
 
