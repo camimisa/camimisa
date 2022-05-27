@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Camila Garcia Misa</h1>
 <h3 align="center">Desarrolladora de software</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Spring boot**
+- 🌱 Actualmente estoy aprendiendo **Go**
 
 - 👨‍💻 Mis proyectos estan disponibles en [garcia-misa-camila.netlify.app](https://garcia-misa-camila.netlify.app/)
 
